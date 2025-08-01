@@ -16,5 +16,8 @@ Content-based filtering
 
 Text vectorization using TF-IDF/CountVectorizer
 
+Using Dataset from kaggle
+dataset link:-https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv 
+
 Cosine similarity for recommendation scoring
 
